@@ -1,1 +1,2 @@
-export const PrintHelloWorld = () => 'Hello World';
+const PrintHelloWorld = () => 'Hello World!';
+module.exports = { PrintHelloWorld };
